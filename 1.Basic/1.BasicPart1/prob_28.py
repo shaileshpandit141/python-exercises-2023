@@ -11,7 +11,7 @@ numbers = [
     ]
 '''
 
-def A(list_data):
+def A(list_data:int):
     for i in list_data:
         if i == 237:
             print(i)

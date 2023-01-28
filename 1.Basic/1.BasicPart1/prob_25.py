@@ -4,7 +4,7 @@ Test Data :
 3 -> [1, 5, 8, 3] : True
 -1 -> [1, 5, 8, 3] : False                                      
 '''
-def check_contain_ornot(mylist, number):
+def check_contain_ornot(mylist:int, number:int):
     if number in mylist:
         return True
     else:
