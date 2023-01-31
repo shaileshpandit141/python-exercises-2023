@@ -26,3 +26,4 @@ if __name__=="__main__":
     
     print( "number of cpu core: ")
     cpu_core_count()
+    

@@ -10,3 +10,4 @@ if __name__=='__main__':
     p1 = [4, 0]
     p2 = [6, 6]
     print("Distance between two points :",distance_between_points(p1, p2))
+    

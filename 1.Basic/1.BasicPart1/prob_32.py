@@ -19,3 +19,4 @@ def print_lcm(num_x:int, num_y:int):
 if __name__=="__main__":
     print(print_lcm(4, 6))
     print(print_lcm(15, 17))
+    

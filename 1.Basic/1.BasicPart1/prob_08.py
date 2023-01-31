@@ -9,3 +9,4 @@ def Disply_fistlast_colours(mycolor_list):
 if __name__=="__main__":
     color_list = ["Red","Green","White" ,"Black"]
     Disply_fistlast_colours(color_list)
+    

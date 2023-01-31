@@ -10,3 +10,4 @@ if __name__=="__main__":
     x = 4
     y = 3
     solve_Q(x, y)
+    

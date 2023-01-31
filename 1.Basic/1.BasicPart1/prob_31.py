@@ -17,3 +17,4 @@ if __name__=="__main__":
     n1 = int(input(":   "))
     n2 = int(input(":   "))
     greatest_common_divisor(n1, n2)
+    

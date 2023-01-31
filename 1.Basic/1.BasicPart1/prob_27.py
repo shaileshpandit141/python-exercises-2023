@@ -12,3 +12,4 @@ def concatenate_list_data(group_data):
 if __name__=='__main__':
     print(concatenate_list_data([1, 5, 12, 2]))
     print(concatenate_list_data(["A", 5, "X", 2]))
+    

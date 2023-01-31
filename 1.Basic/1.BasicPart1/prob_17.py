@@ -11,3 +11,4 @@ if __name__=="__main__":
     print(near_thousant(900))
     print(near_thousant(800))   
     print(near_thousant(2200))
+    

@@ -13,3 +13,4 @@ if __name__=="__main__":
     print("Enter a number to find its even or odd.")
     num = int(input(":  "))
     even_or_odd(num)
+    

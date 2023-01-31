@@ -14,5 +14,3 @@ if __name__=="__main__":
     years = 7
     print(future_value(amt, int_, years))
     print(round(future_value(amt, int_, years),2))
-
-

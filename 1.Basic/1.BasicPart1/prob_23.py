@@ -16,4 +16,3 @@ if __name__=='__main__':
     substring_copy('pkjdskvbakl', 3)
     substring_copy('', 5)
     substring_copy('abs', 1)
-

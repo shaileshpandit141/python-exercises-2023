@@ -10,3 +10,4 @@ if __name__=="__main__":
     Base = int(input("Base:   "))
     Height = int(input("Height:   "))
     area_of_tringle(Base, Height)
+    

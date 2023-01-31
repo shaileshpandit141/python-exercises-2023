@@ -10,3 +10,4 @@ def os_architecture():
 
 if __name__=="__main__":
     os_architecture()
+    

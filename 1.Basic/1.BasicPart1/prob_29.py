@@ -20,3 +20,4 @@ if __name__=="__main__":
     color_list_1 = set(["White", "Black", "Red"])
     color_list_2 = set(["Red", "Green"])
     print_colour(color_list_1, color_list_2)
+    

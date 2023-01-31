@@ -16,3 +16,4 @@ if __name__=="__main__":
     count_duplicate_values([1, 4, 6, 4, 7, 4], number)
     count_duplicate_values([1, 4, 6, 7, 4], number)
     count_duplicate_values([1, 4, 6, 7, 4, 4, 4, 5], number)
+    

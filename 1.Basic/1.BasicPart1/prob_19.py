@@ -17,4 +17,3 @@ if __name__=="__main__":
     print(new_string("IsEmpty"))
     print(new_string("i"))
     print(new_string("Is"))
-

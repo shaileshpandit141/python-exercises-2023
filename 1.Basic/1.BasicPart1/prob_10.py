@@ -9,3 +9,4 @@ def Accepts_integer(num):
 if __name__=="__main__":
     n = 5
     Accepts_integer(n)
+    
